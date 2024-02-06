@@ -1,0 +1,1 @@
+Responsive starbucks clone page
